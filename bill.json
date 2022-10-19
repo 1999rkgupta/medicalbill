@@ -1,0 +1,34 @@
+[
+  {
+    "tname": "Full Body Checkup",
+    "price": 2000
+  },
+  {
+    "tname": "Blood Test",
+    "price": 400
+  },
+  {
+    "tname": "Diabetes",
+    "price": 300
+  },
+  {
+    "tname": "Stress Test",
+    "price": 800
+  },
+  {
+    "tname": "X-Ray",
+    "price": 600
+  },
+  {
+    "tname": "Ultrasound",
+    "price": 900
+  },
+  {
+    "tname": "Swab",
+    "price": 200
+  },
+  {
+    "tname": "Eye Checkup",
+    "price": 1500
+  }
+]
